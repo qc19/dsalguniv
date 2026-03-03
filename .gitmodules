@@ -1,0 +1,6 @@
+[submodule "Algorithmic-Toolbox-San-Diego"]
+	path = Algorithmic-Toolbox-San-Diego
+	url = https://github.com/prantosky/coursera-algorithmic-toolbox.git
+[submodule "Algorithms-UCSanDiego"]
+	path = Algorithms-UCSanDiego
+	url = git@github.com:claytonjwong/Algorithms-UCSanDiego
