@@ -4,3 +4,6 @@
 [submodule "Algorithms-UCSanDiego"]
 	path = Algorithms-UCSanDiego
 	url = git@github.com:claytonjwong/Algorithms-UCSanDiego
+[submodule "stanfordacm"]
+	path = stanfordacm
+	url = https://github.com/jaehyunp/stanfordacm.git
